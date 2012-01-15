@@ -1,0 +1,5 @@
+category: Xfce
+requires: faenza-icon-theme
+sdesc: "Faenza icon theme for Xfce"
+ldesc: "This is an addon to make Faenza Xfce-complete, meaning it 
+requires the Faenza-icon set to be installed to work."
